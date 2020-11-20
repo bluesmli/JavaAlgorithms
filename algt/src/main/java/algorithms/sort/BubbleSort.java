@@ -4,6 +4,11 @@ public class BubbleSort {
 
     /*冒泡排序*/
 
+    /**
+     * 冒泡排序
+     * @param nums
+     * @return
+     */
     public  static  int [] ArrayBubbleSort(int [] nums) {
 
         for (int i = 0; i < nums.length; i++) {
